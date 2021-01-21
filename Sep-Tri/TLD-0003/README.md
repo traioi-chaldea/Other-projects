@@ -98,7 +98,6 @@ SP sử dụng **Veeam Backup & Replication** để phục vụ như 1 **Cloud r
 * **Cloud hosts**
 * Requirement:
   * **Service:** Veeam Cloud Connect Service
-  * 
 
 #### 3.2.3. Backup & Replicate
 
@@ -117,7 +116,13 @@ SP sử dụng **Veeam Backup & Replication** để phục vụ như 1 **Cloud r
 
 #### 3.2.4. MSSQL Server
 
+* Requirement:
+  * **OS:** Microsoft Windows Server 2016/2019
+
 #### 3.2.5. Active Directory (AD, DNS, NTP)
+
+* Requirement:
+  * **OS:** Microsoft Windows Server 2016/2019
 
 #### 3.2.6. Backup Repository Server
 
