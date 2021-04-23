@@ -1,5 +1,7 @@
 # OpenStack Services
 
+![OpenStack Services](img/openstack-map-v20210201.svg)
+
 | Service | isCore? | Node | Comment |
 | --- | --- | --- | --- |
 | Aodh | | Controller | **Alarming service**, alert dựa trên metric/data của Ceilometer hoặc Gnocchi |
