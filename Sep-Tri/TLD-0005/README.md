@@ -1,12 +1,7 @@
 # Nghiên cứu về giải pháp OpenStack
 
-## Các giải pháp
+## Roadmap
 
-| | NFS | iSCSI |
-| --- | --- | --- |
-| **Type** | Network storage | Network storage |
-| **Frontend** | NFS-Ganesha | iSCSI Gateways |
+### 1. Pre-tasks
 
-## Workflow
-
-![a](./img/nfs-iscsi.jfif)
+- Ngày 1: [Các OpenStack Services](./openstack-services.md)
