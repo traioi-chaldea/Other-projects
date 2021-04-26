@@ -9,8 +9,14 @@
   * [OpenStack Concept](./pre-tasks/openstack-concept/README.md)
   * [Architecture Design](./pre-tasks/architecture-design/README.md)
   * [Development Tools](./pre-tasks/deployment-tools/README.md)
+* Ngày 3:
+  * [Model Design](./pre-tasks/model-design/README.md)
 
 ### 2. Deployment
 
 * Ngày 3:
   * [Kolla Configuration](./deployment/kolla-configuration/README.md)
+
+## References
+
+* [Kolla Configuration](./deployment/kolla-configuration/all.md)
