@@ -8,3 +8,4 @@
 * [TLD-0004: Giải pháp VMWare ESXi và Ceph storage](./TLD-0004/README.md)
 * [TLD-0005: Nghiên cứu về OpenStack](./TLD-0005/README.md) (Delayed)
 * [TLD-0006: Nghiên cứu về Anycast](./TLD-0006/README.md)
+* [TLD-0007: Nghiên cứu về Cloudian S3 Storage](./TLD-0007/README.md)
